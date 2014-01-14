@@ -1,0 +1,11 @@
+{
+    "name": "safesocket",
+    "version": "0.1.0",
+    "description": "Wraps socket.io event handlers to prevent crashes from certain malicious inputs.",
+    "keywords": ["socket.io", "crash", "safe", "secure", "security", "socket", "io", "malicious"],
+    "license": "MIT",
+    "author": "Majiir <majiir@nabaal.net>",
+    "main": "safesocket.js",
+    "repository": { "type": "git", "url": "https://github.com/Majiir/safesocket.git" },
+    "engines": { "node": "0.10.x" }
+}
