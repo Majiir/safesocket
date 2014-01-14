@@ -1,6 +1,6 @@
 {
     "name": "safesocket",
-    "version": "0.1.1",
+    "version": "1.0.0",
     "description": "Wraps socket.io event handlers to prevent crashes from certain malicious inputs.",
     "keywords": ["socket.io", "crash", "safe", "secure", "security", "socket", "io", "malicious"],
     "license": "MIT",
